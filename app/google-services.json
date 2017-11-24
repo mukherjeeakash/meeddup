@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "285414525228",
+    "firebase_url": "https://meeddup.firebaseio.com",
+    "project_id": "meeddup",
+    "storage_bucket": "meeddup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285414525228:android:6c438d6e7541d495",
+        "android_client_info": {
+          "package_name": "com.mukherjeeakash.meeddup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285414525228-vrqvhd1ii6u6pb79fqou28tm2bhbjp3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mukherjeeakash.meeddup",
+            "certificate_hash": "4c0c8047a33b97b794d0d7b57595d3e5987655c3"
+          }
+        },
+        {
+          "client_id": "285414525228-ggkb5apn9o27a6elr8s1jb56k21a64m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6X3B2PB60vb95eRW-Sng2na5m2f49Xfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285414525228-ggkb5apn9o27a6elr8s1jb56k21a64m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
